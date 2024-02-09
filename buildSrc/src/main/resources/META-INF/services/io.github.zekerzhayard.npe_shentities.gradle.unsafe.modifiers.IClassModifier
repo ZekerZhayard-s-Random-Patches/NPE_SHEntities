@@ -1,0 +1,5 @@
+io.github.zekerzhayard.npe_shentities.gradle.unsafe.modifiers.AssetsThreadModifier
+io.github.zekerzhayard.npe_shentities.gradle.unsafe.modifiers.BasePluginModifier
+io.github.zekerzhayard.npe_shentities.gradle.unsafe.modifiers.ProcessJarTaskModifier
+io.github.zekerzhayard.npe_shentities.gradle.unsafe.modifiers.UserBasePlugin$3Modifier
+io.github.zekerzhayard.npe_shentities.gradle.unsafe.modifiers.UserBasePluginModifier
